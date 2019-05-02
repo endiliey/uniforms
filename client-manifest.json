@@ -1,0 +1,639 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "@theme/NotFound": [
+      2,
+      6,
+      8,
+      10,
+      11,
+      13,
+      16,
+      18,
+      21,
+      22,
+      24,
+      26,
+      28,
+      29,
+      31,
+      33,
+      36,
+      37,
+      0
+    ],
+    "@theme/Pages": [
+      2,
+      6,
+      8,
+      10,
+      11,
+      13,
+      16,
+      18,
+      21,
+      22,
+      24,
+      26,
+      28,
+      29,
+      31,
+      33,
+      36,
+      37,
+      0
+    ],
+    "@theme/Doc": [
+      2,
+      6,
+      8,
+      10,
+      11,
+      13,
+      16,
+      18,
+      21,
+      22,
+      24,
+      26,
+      28,
+      29,
+      31,
+      33,
+      36,
+      37,
+      0
+    ],
+    "@theme/DocBody": [
+      2,
+      6,
+      8,
+      10,
+      11,
+      13,
+      16,
+      18,
+      21,
+      22,
+      24,
+      26,
+      28,
+      29,
+      31,
+      33,
+      36,
+      37,
+      0
+    ],
+    "docsearch.js": [
+      2,
+      6,
+      8,
+      10,
+      11,
+      13,
+      16,
+      18,
+      21,
+      22,
+      24,
+      26,
+      28,
+      29,
+      31,
+      33,
+      36,
+      37,
+      0
+    ],
+    "main": [
+      39,
+      1
+    ],
+    "/home/travis/build/vazco/uniforms/website/pages/index.js": [
+      0,
+      2
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-pages/uniforms-4b6.json": [
+      3
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-0e6.json": [
+      4
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-api-bridges-e5d.json": [
+      5
+    ],
+    "/home/travis/build/vazco/uniforms/docs/api-bridges.md": [
+      0,
+      6
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-api-fields-4c5.json": [
+      7
+    ],
+    "/home/travis/build/vazco/uniforms/docs/api-fields.md": [
+      0,
+      8
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-api-forms-469.json": [
+      9
+    ],
+    "/home/travis/build/vazco/uniforms/docs/api-forms.md": [
+      0,
+      10
+    ],
+    "/home/travis/build/vazco/uniforms/docs/api-helpers.md": [
+      0,
+      11
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-api-helpers-6e9.json": [
+      12
+    ],
+    "/home/travis/build/vazco/uniforms/docs/bridges-concept.md": [
+      0,
+      13
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-bridges-concept-a6a.json": [
+      14
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-bridges-graphql-c4c.json": [
+      15
+    ],
+    "/home/travis/build/vazco/uniforms/docs/bridges-graphql.md": [
+      0,
+      16
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-bridges-json-schema-84c.json": [
+      17
+    ],
+    "/home/travis/build/vazco/uniforms/docs/bridges-json-schema.md": [
+      0,
+      18
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-bridges-simple-schema-f77.json": [
+      19
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-bridges-simple-schema-2-0aa.json": [
+      20
+    ],
+    "/home/travis/build/vazco/uniforms/docs/bridges-simple-schema-2.md": [
+      0,
+      21
+    ],
+    "/home/travis/build/vazco/uniforms/docs/bridges-simple-schema.md": [
+      0,
+      22
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-examples-2ce.json": [
+      23
+    ],
+    "/home/travis/build/vazco/uniforms/docs/examples.md": [
+      0,
+      24
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-installation-37a.json": [
+      25
+    ],
+    "/home/travis/build/vazco/uniforms/docs/installation.md": [
+      0,
+      26
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-overview-c1e.json": [
+      27
+    ],
+    "/home/travis/build/vazco/uniforms/docs/overview.md": [
+      0,
+      28
+    ],
+    "/home/travis/build/vazco/uniforms/docs/quick-start.md": [
+      0,
+      29
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-quick-start-500.json": [
+      30
+    ],
+    "/home/travis/build/vazco/uniforms/docs/uncategorized-context-data.md": [
+      0,
+      31
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-uncategorized-context-data-9f7.json": [
+      32
+    ],
+    "/home/travis/build/vazco/uniforms/docs/uncategorized-fields.md": [
+      0,
+      33
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-uncategorized-fields-2c4.json": [
+      34
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-docs/uniforms-docs-uncategorized-forms-641.json": [
+      35
+    ],
+    "/home/travis/build/vazco/uniforms/docs/uncategorized-forms.md": [
+      0,
+      36
+    ],
+    "/home/travis/build/vazco/uniforms/website/pages/playground.js": [
+      0,
+      37
+    ],
+    "/home/travis/build/vazco/uniforms/website/.docusaurus/docusaurus-plugin-content-pages/uniforms-playground-149.json": [
+      38
+    ],
+    "runtime~main": [
+      1,
+      39
+    ]
+  },
+  "assets": {
+    "0": {
+      "css": [
+        {
+          "file": "vendors.730034c8919261d62cfc.css",
+          "hash": "730034c8919261d62cfc",
+          "publicPath": "/uniforms/vendors.730034c8919261d62cfc.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "vendors.730034c8919261d62cfc.js",
+          "hash": "730034c8919261d62cfc",
+          "publicPath": "/uniforms/vendors.730034c8919261d62cfc.js"
+        }
+      ]
+    },
+    "1": {
+      "css": [
+        {
+          "file": "main.454ba9247dd4a0601b2f.css",
+          "hash": "454ba9247dd4a0601b2f",
+          "publicPath": "/uniforms/main.454ba9247dd4a0601b2f.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "main.454ba9247dd4a0601b2f.js",
+          "hash": "454ba9247dd4a0601b2f",
+          "publicPath": "/uniforms/main.454ba9247dd4a0601b2f.js"
+        }
+      ]
+    },
+    "2": {
+      "css": [
+        {
+          "file": "module---uniforms-216-444.f129e53e837537fbf29a.css",
+          "hash": "f129e53e837537fbf29a",
+          "publicPath": "/uniforms/module---uniforms-216-444.f129e53e837537fbf29a.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "module---uniforms-216-444.f129e53e837537fbf29a.js",
+          "hash": "f129e53e837537fbf29a",
+          "publicPath": "/uniforms/module---uniforms-216-444.f129e53e837537fbf29a.js"
+        }
+      ]
+    },
+    "3": {
+      "js": [
+        {
+          "file": "module---uniforms-866-215.bfeed0a8681f7a656aa0.js",
+          "hash": "bfeed0a8681f7a656aa0",
+          "publicPath": "/uniforms/module---uniforms-866-215.bfeed0a8681f7a656aa0.js"
+        }
+      ]
+    },
+    "4": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-1-b-4-177.448642fbb4ff0402b2b2.js",
+          "hash": "448642fbb4ff0402b2b2",
+          "publicPath": "/uniforms/module---uniforms-docs-1-b-4-177.448642fbb4ff0402b2b2.js"
+        }
+      ]
+    },
+    "5": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-bridgesc-94-70f.19ee2f4211b6b01993b9.js",
+          "hash": "19ee2f4211b6b01993b9",
+          "publicPath": "/uniforms/module---uniforms-docs-api-bridgesc-94-70f.19ee2f4211b6b01993b9.js"
+        }
+      ]
+    },
+    "6": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-bridgesd-13-63d.7d1bf5b2317e326bde44.js",
+          "hash": "7d1bf5b2317e326bde44",
+          "publicPath": "/uniforms/module---uniforms-docs-api-bridgesd-13-63d.7d1bf5b2317e326bde44.js"
+        }
+      ]
+    },
+    "7": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-fields-380-779.50f80ac34137da21c55c.js",
+          "hash": "50f80ac34137da21c55c",
+          "publicPath": "/uniforms/module---uniforms-docs-api-fields-380-779.50f80ac34137da21c55c.js"
+        }
+      ]
+    },
+    "8": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-fieldse-1-a-160.de5bf76babd0b5420767.js",
+          "hash": "de5bf76babd0b5420767",
+          "publicPath": "/uniforms/module---uniforms-docs-api-fieldse-1-a-160.de5bf76babd0b5420767.js"
+        }
+      ]
+    },
+    "9": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-formsd-23-5c6.3f3ae68c967f8cfa4485.js",
+          "hash": "3f3ae68c967f8cfa4485",
+          "publicPath": "/uniforms/module---uniforms-docs-api-formsd-23-5c6.3f3ae68c967f8cfa4485.js"
+        }
+      ]
+    },
+    "10": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-formsed-9-cec.5c2940930a1f6791f3fc.js",
+          "hash": "5c2940930a1f6791f3fc",
+          "publicPath": "/uniforms/module---uniforms-docs-api-formsed-9-cec.5c2940930a1f6791f3fc.js"
+        }
+      ]
+    },
+    "11": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-helpersef-4-0a3.cc8a195cfd0eca5974e5.js",
+          "hash": "cc8a195cfd0eca5974e5",
+          "publicPath": "/uniforms/module---uniforms-docs-api-helpersef-4-0a3.cc8a195cfd0eca5974e5.js"
+        }
+      ]
+    },
+    "12": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-api-helpersf-07-120.411957b87d9ecb0a8e61.js",
+          "hash": "411957b87d9ecb0a8e61",
+          "publicPath": "/uniforms/module---uniforms-docs-api-helpersf-07-120.411957b87d9ecb0a8e61.js"
+        }
+      ]
+    },
+    "13": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-concept-76-e-994.5de0f1d4573b26537f86.js",
+          "hash": "5de0f1d4573b26537f86",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-concept-76-e-994.5de0f1d4573b26537f86.js"
+        }
+      ]
+    },
+    "14": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-conceptddf-fb0.8175e5e699856d65e312.js",
+          "hash": "8175e5e699856d65e312",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-conceptddf-fb0.8175e5e699856d65e312.js"
+        }
+      ]
+    },
+    "15": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-graphqlba-3-19e.b379b0822935b8ab6f51.js",
+          "hash": "b379b0822935b8ab6f51",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-graphqlba-3-19e.b379b0822935b8ab6f51.js"
+        }
+      ]
+    },
+    "16": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-graphqlc-8-e-85c.7792dcc9e0cee776c4f6.js",
+          "hash": "7792dcc9e0cee776c4f6",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-graphqlc-8-e-85c.7792dcc9e0cee776c4f6.js"
+        }
+      ]
+    },
+    "17": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-json-schema-164-783.9fe3312342cceae491f5.js",
+          "hash": "9fe3312342cceae491f5",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-json-schema-164-783.9fe3312342cceae491f5.js"
+        }
+      ]
+    },
+    "18": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-json-schema-78-e-c6a.82139f7fbd4a7c4b1629.js",
+          "hash": "82139f7fbd4a7c4b1629",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-json-schema-78-e-c6a.82139f7fbd4a7c4b1629.js"
+        }
+      ]
+    },
+    "19": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-simple-schema-139-774.52b76e408d3fd0359fd4.js",
+          "hash": "52b76e408d3fd0359fd4",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-simple-schema-139-774.52b76e408d3fd0359fd4.js"
+        }
+      ]
+    },
+    "20": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-simple-schema-2-c-9-b-acb.59c8fb024ec714d37859.js",
+          "hash": "59c8fb024ec714d37859",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-simple-schema-2-c-9-b-acb.59c8fb024ec714d37859.js"
+        }
+      ]
+    },
+    "21": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-simple-schema-2430-a5b.9f7f7b294096ebb3912c.js",
+          "hash": "9f7f7b294096ebb3912c",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-simple-schema-2430-a5b.9f7f7b294096ebb3912c.js"
+        }
+      ]
+    },
+    "22": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-bridges-simple-schemaa-00-6fa.f05875ee3b462f4dbe14.js",
+          "hash": "f05875ee3b462f4dbe14",
+          "publicPath": "/uniforms/module---uniforms-docs-bridges-simple-schemaa-00-6fa.f05875ee3b462f4dbe14.js"
+        }
+      ]
+    },
+    "23": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-examplesf-0-b-3f9.b5614c2921199746f3a8.js",
+          "hash": "b5614c2921199746f3a8",
+          "publicPath": "/uniforms/module---uniforms-docs-examplesf-0-b-3f9.b5614c2921199746f3a8.js"
+        }
+      ]
+    },
+    "24": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-examplesf-44-78a.f6e644749c0de0f01010.js",
+          "hash": "f6e644749c0de0f01010",
+          "publicPath": "/uniforms/module---uniforms-docs-examplesf-44-78a.f6e644749c0de0f01010.js"
+        }
+      ]
+    },
+    "25": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-installationeb-1-260.0c7466334c0dd059c64b.js",
+          "hash": "0c7466334c0dd059c64b",
+          "publicPath": "/uniforms/module---uniforms-docs-installationeb-1-260.0c7466334c0dd059c64b.js"
+        }
+      ]
+    },
+    "26": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-installationfff-7aa.5b5c81ef1908d101a0ff.js",
+          "hash": "5b5c81ef1908d101a0ff",
+          "publicPath": "/uniforms/module---uniforms-docs-installationfff-7aa.5b5c81ef1908d101a0ff.js"
+        }
+      ]
+    },
+    "27": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-overview-3-e-4-95e.5e574bf6dc42f2d942b5.js",
+          "hash": "5e574bf6dc42f2d942b5",
+          "publicPath": "/uniforms/module---uniforms-docs-overview-3-e-4-95e.5e574bf6dc42f2d942b5.js"
+        }
+      ]
+    },
+    "28": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-overview-74-a-abf.6360c40631018199c07d.js",
+          "hash": "6360c40631018199c07d",
+          "publicPath": "/uniforms/module---uniforms-docs-overview-74-a-abf.6360c40631018199c07d.js"
+        }
+      ]
+    },
+    "29": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-quick-start-6-a-7-4ff.7adb70e6de3b3c3f600f.js",
+          "hash": "7adb70e6de3b3c3f600f",
+          "publicPath": "/uniforms/module---uniforms-docs-quick-start-6-a-7-4ff.7adb70e6de3b3c3f600f.js"
+        }
+      ]
+    },
+    "30": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-quick-start-71-b-722.b7340023968a28580eaf.js",
+          "hash": "b7340023968a28580eaf",
+          "publicPath": "/uniforms/module---uniforms-docs-quick-start-71-b-722.b7340023968a28580eaf.js"
+        }
+      ]
+    },
+    "31": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-uncategorized-context-databa-4-f73.42db7039c793e2924df7.js",
+          "hash": "42db7039c793e2924df7",
+          "publicPath": "/uniforms/module---uniforms-docs-uncategorized-context-databa-4-f73.42db7039c793e2924df7.js"
+        }
+      ]
+    },
+    "32": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-uncategorized-context-databef-e37.812718a0379d565abf4c.js",
+          "hash": "812718a0379d565abf4c",
+          "publicPath": "/uniforms/module---uniforms-docs-uncategorized-context-databef-e37.812718a0379d565abf4c.js"
+        }
+      ]
+    },
+    "33": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-uncategorized-fieldsa-2-a-84e.d1df50fd35c729285be5.js",
+          "hash": "d1df50fd35c729285be5",
+          "publicPath": "/uniforms/module---uniforms-docs-uncategorized-fieldsa-2-a-84e.d1df50fd35c729285be5.js"
+        }
+      ]
+    },
+    "34": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-uncategorized-fieldsb-32-5d3.f5bb9207e911932b3021.js",
+          "hash": "f5bb9207e911932b3021",
+          "publicPath": "/uniforms/module---uniforms-docs-uncategorized-fieldsb-32-5d3.f5bb9207e911932b3021.js"
+        }
+      ]
+    },
+    "35": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-uncategorized-forms-474-d74.6ee9b88832d47ef0f566.js",
+          "hash": "6ee9b88832d47ef0f566",
+          "publicPath": "/uniforms/module---uniforms-docs-uncategorized-forms-474-d74.6ee9b88832d47ef0f566.js"
+        }
+      ]
+    },
+    "36": {
+      "js": [
+        {
+          "file": "module---uniforms-docs-uncategorized-forms-48-c-b96.aa2bbebe8e15997b2f75.js",
+          "hash": "aa2bbebe8e15997b2f75",
+          "publicPath": "/uniforms/module---uniforms-docs-uncategorized-forms-48-c-b96.aa2bbebe8e15997b2f75.js"
+        }
+      ]
+    },
+    "37": {
+      "css": [
+        {
+          "file": "module---uniforms-playground-2-b-1-0ee.9593e00b162ec8913fc9.css",
+          "hash": "9593e00b162ec8913fc9",
+          "publicPath": "/uniforms/module---uniforms-playground-2-b-1-0ee.9593e00b162ec8913fc9.css"
+        }
+      ],
+      "js": [
+        {
+          "file": "module---uniforms-playground-2-b-1-0ee.9593e00b162ec8913fc9.js",
+          "hash": "9593e00b162ec8913fc9",
+          "publicPath": "/uniforms/module---uniforms-playground-2-b-1-0ee.9593e00b162ec8913fc9.js"
+        }
+      ]
+    },
+    "38": {
+      "js": [
+        {
+          "file": "module---uniforms-playgroundbf-0-636.dd12b1c4f6d6b124f391.js",
+          "hash": "dd12b1c4f6d6b124f391",
+          "publicPath": "/uniforms/module---uniforms-playgroundbf-0-636.dd12b1c4f6d6b124f391.js"
+        }
+      ]
+    },
+    "39": {
+      "js": [
+        {
+          "file": "runtime~main.53a00542399cf6f09f77.js",
+          "hash": "53a00542399cf6f09f77",
+          "publicPath": "/uniforms/runtime~main.53a00542399cf6f09f77.js"
+        }
+      ]
+    }
+  }
+}
